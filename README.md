@@ -9,16 +9,16 @@ The projects in this repository showcase some of my work in the areas of machine
 
 Here's a list of the projects in this repository:
 
-Project 1: Classification of Images using Convolutional Neural Networks
-Project 2: Predicting House Prices using Regression Models
+Project 1: Predicting House Prices using Regression Models
+Project 2: Classification of Images using Convolutional Neural Networks\
 Project 3: Natural Language Processing with LSTM Networks
-Project 4: Credit Risk Modelling using Ensemble Techniques
+Project 4: Timeseries Analysis Predictions
 
 ## Getting Started
 To get started with this repository, simply clone the repository to your local machine:
 
 
-git clone https://github.com/your-username/machine-learning-projects.git
+git clone https://github.com/AbdelrahmanKatkat/ML-and-DL-Projects.git
 
 Each project is contained in its own directory, so you can navigate to the directory of the project you're interested in and follow the instructions in the README file to get started.
 
